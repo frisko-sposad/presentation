@@ -1,8 +1,12 @@
 @import '../../node_modules/reveal.js/css/reveal.css';
-@import '../../node_modules/reveal.js/css/theme/moon.css';
+@import '../../node_modules/reveal.js/css/theme/sky.css';
 
 .title {
   color: #fff;
   top: 150px;
   position: relative;
+}
+
+.reveal h2 {
+	font-size: 1.5em;
 }
