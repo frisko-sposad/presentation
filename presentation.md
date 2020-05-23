@@ -126,3 +126,4 @@ What can you do better in the next sprint?
 What can be improved?
 
 The sprint ends and the team moves on to the next sprint. This is how Agile works on the example of Scrum.
+
