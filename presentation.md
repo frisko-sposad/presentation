@@ -10,10 +10,10 @@ A large project is divided into several small parts.
 The work is performed by small teams that operate in short cycles. 
 This allows you to evaluate the results of the work done, get feedback, and make changes to the product when new requirements are received.
 The main features of Agile are:
-•	dividing issues into blocks
-•	autonomy and transparency
-•	daily standups
-•	feedback from users
+- dividing issues into blocks
+- autonomy and transparency
+- daily standups
+- feedback from users
 
 Agile Flexibility
 In traditional organizations, processes operate in a cascading model. Everything happens in stages. 
@@ -22,10 +22,10 @@ You have to make a choice-develop a new plan or continue with the old non-workin
 Agile methods are more flexible and are designed to deal with these problems. 
 We can say that Agile is a set of different approaches to reduce possible risks.
 Agile is based on the following principles:
-•	People are more important than things
-•	Documentation should not interfere with your work
-•	Cooperate, not re-read the contract
-•	Live, breathe, change as quickly as possible
+- People are more important than things
+- Documentation should not interfere with your work
+- Cooperate, not re-read the contract
+- Live, breathe, change as quickly as possible
  
  
 General Agile practices
@@ -101,18 +101,19 @@ The team must work independently and complete what it promised the customer to d
 
 7. Work should be visible
 The most common way to do this is to have a scrum Board with columns:
-•	Need to do, or backlog
-•	In work
-•	Done
+- Need to do, or backlog
+- In work
+- Done
 Stickers are custom tasks that need to be completed. 
 During execution, the command will move the stickers from one column to another.
 
 8. Daily meetings
 Meetings don't last more than fifteen minutes. 
 Every day, the team and the scrum master meet and give answers to three questions.
-•	What did you do yesterday to help the team complete the sprint?
-•	What will you do today to help the team complete the sprint?
-•	What problems stand in the way of the team?
+- What did you do yesterday to help the team complete the sprint?
+- What will you do today to help the team complete the sprint?
+- What problems stand in the way of the team?
+
 9. The sprint review
 This is a meeting where the product owner, scrum master, team and customer, management, and potential consumers are present. 
 The team demonstrates the finished product parts completed in a sprint.
