@@ -1,5 +1,7 @@
 Видео: https://youtu.be/wI9TV2VUZOU
+
 Презентация: https://frisko-sposad-agile.netlify.app/
+
 Стенограмма:
 
 Agile
